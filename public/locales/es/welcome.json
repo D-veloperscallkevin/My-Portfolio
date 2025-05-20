@@ -1,0 +1,39 @@
+{
+  "navbar": {
+    "hero": "Inicio",
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "skills": "Habilidades Técnicas",
+    "contact": "Contacto"
+  },
+
+  "hero": {
+    "title": "Hola, soy Kevin Aguilar",
+    "description": "Full Stack Developer especializado en la tecnología MERN para construir experiencias web modernas y escalables.",
+    "projectsButton": "Ver proyectos",
+    "cvButton": "Descargar mi CV",
+    "cvLoading": "Generando CV...",
+    "cvError": "Error al generar PDF"
+  },
+
+  "about": {
+    "heading": "Sobre mí",
+    "description": "Soy un desarrollador Full Stack Junior sin experiencia laboral y apasionado en la creación de interfaces modernas usando tecnologías como React Vite + TypeScript y Chakra UI, combinadas con sólidas bases en HTML y CSS.",
+    "backend": "En el backend, construyo APIs robustas con Node.js, Express y MongoDB, integrando soluciones como Auth0, JWT, Multer y Cloudinary.",
+    "focus": "Mi enfoque está en escribir código limpio, seguro y escalable, apoyado por librerías modernas como Zod, React Hook Form, Mongoose y Stripe."
+  },
+
+  "projects": {
+    "heading": "Proyectos",
+    "myLearningsApp": "Aplicación Full Stack con autenticación segura mediante JWT, integración de formularios con SendGrid para envíos automatizados, generador inteligente de respuestas, creación de imágenes con Replicate AI y un módulo de e-commerce funcional. Esta aplicación evolucionará junto con mi proceso de aprendizaje.",
+    "projectsButton": "Ver proyecto"
+  },
+  "skills": {
+    "heading": "Habilidades Técnicas"
+  },
+  "contact": {
+    "heading": "Contacto",
+    "description": "Estoy abierto a nuevas oportunidades, colaboraciones y proyectos serios. No dudes en contactarme a través de las siguientes plataformas:",
+    "emailButton": "Correo Electrónico"
+  }
+}
