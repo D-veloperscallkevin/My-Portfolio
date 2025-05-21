@@ -69,7 +69,7 @@ export const PdfDocument = () => (
           GitHub: https://github.com/D-veloperscallkevin
         </Text>
         <Text style={styles.contact}>
-          My portfolio: https://my-portfolio-production-d98f.up.railway.app/
+          My portfolio: https://my-portfolio-production-7ed4.up.railway.app
         </Text>
       </View>
 
